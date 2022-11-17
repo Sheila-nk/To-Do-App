@@ -15,11 +15,11 @@ Some useful features of the app include:
 	- deleting items on the list
 	- deleting crossed items to declutter the list
 	- clearing the list
-	- exiting from the list app.
-The technology used to create this app is Python and primarily, the tkinter module which allows for a graphical user interface.
+	- exiting from the list app
+The tkinter module is heavily used in this app to provide a graphical user interface.
 ## Usage
 To use this app, clone the repository to your local machine:
-``` ```
+```https://github.com/Sheila-nk/To-Do_App.git```
 
 Run the program on your terminal:
 ```python todoapp.py```
